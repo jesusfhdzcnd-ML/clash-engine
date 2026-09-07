@@ -1,5 +1,7 @@
 # Clash Royale Analytics & Tactical Engine (v2.0)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14Gi4ByA1VPEKdJQWfbN6oePD33mvCcH2)
+
 Sistema cuantitativo de físicas, simulador predictivo de cambios de balance y analizador táctico de partidas (*Game Review*) para Clash Royale.
 
 ---
