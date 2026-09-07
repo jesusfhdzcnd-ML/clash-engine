@@ -1,0 +1,17 @@
+# Bytecode y cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Dataset temporal de partidas (si llega a pesar más de 50MB)
+# top_ladder_battles.json
